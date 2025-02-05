@@ -20,3 +20,7 @@ https://app.vivadata.org/courses/01-Data-Project-Management
 ## Artefacts
 - [Data Dictionary](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/files/11643097/Olist.Data.Dictionary.2.pdf)
 - ERD:
+
+## Project structure
+- Folder SRC: code source, and notebooks
+- Folder DOCUMENTATION: documenting code
