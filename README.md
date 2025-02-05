@@ -18,5 +18,5 @@ https://app.vivadata.org/courses/01-Data-Project-Management
 - olist_leads_qualified
   
 ## Artefacts
-- [Data Dictionary][https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/files/11643097/Olist.Data.Dictionary.2.pdf]
+- [Data Dictionary](https://github.com/tolamoye/Olist-E-commerce-Data-Aanalysis/files/11643097/Olist.Data.Dictionary.2.pdf)
 - ERD:
